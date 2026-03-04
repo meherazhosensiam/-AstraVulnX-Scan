@@ -1,0 +1,80 @@
+# AstraVulnX v3.0.0 - Git Ignore
+# Author: Meheraz Hosen Siam
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Reports
+reports/
+*.pdf
+*.html
+*.json
+!knowledge_base.json
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Config
+.env
+*.local
+
+# Model files (large)
+*.pkl
+*.pickle
+*.h5
+*.pt
+*.pth
+
+# Temporary
+tmp/
+temp/
+*.tmp
+*.bak
