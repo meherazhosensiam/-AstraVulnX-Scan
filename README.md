@@ -96,6 +96,14 @@ git clone https://github.com/meherazhosensiam/-AstraVulnX-Scan.git
 # Navigate to directory
 cd -AstraVulnX-Scan
 
+#Make a virtual environment (linux/macos)
+python3 -m venv venv
+source venv/bin/activate
+#Make a virtual environment (windows)
+venv\Scripts\activate
+#PowerShell:
+.\ venv\Scripts\Activate.ps1
+
 # Install dependencies
 pip install -r requirements.txt
 
