@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Python-3.10+-yellow?style=for-the-badge&logo=python" alt="Python">
   <img src="https://img.shields.io/badge/License-MIT-red?style=for-the-badge" alt="License">
 </p>
-
+  
 <p align="center">
   <img src="https://img.shields.io/badge/OWASP-Top%2010%202024-purple?style=flat-square" alt="OWASP">
   <img src="https://img.shields.io/badge/AI%2FML-Integrated-orange?style=flat-square" alt="AI/ML">
@@ -13,6 +13,7 @@
 </p>
 
 <h1 align="center">🔮 AstraVulnX v3.0.0</h1>
+<h1 align="center"> Build with the help of z.ai And the bugs and problems are solved by meheraz hosen siam</h5>
 
 <h3 align="center">AI-Powered Web Vulnerability Scanner</h3>
 
