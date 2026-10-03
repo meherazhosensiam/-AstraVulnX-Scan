@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/license-MIT-red)
 ![Status](https://img.shields.io/badge/status-beta%20%2F%20learning%20project-orange)
 
-**Author:** [Meheraz Hosen Siam](https://github.com/meherazhosensiam), a penetration testing learner
+**Author:** [Meheraz Hosen Siam](https://github.com/meherazhosensiam),
 **Repository:** https://github.com/meherazhosensiam/-AstraVulnX-Scan
 
 > ⚠️ **Legal disclaimer:** Use this tool only on systems you own or have **explicit written permission** to test. Unauthorized scanning may be illegal. The author is not responsible for misuse.
